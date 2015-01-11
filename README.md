@@ -1,0 +1,1 @@
+A clock whose time will be intepreted in hexidecimal format for the background's color code
